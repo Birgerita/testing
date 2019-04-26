@@ -1,4 +1,2 @@
 # testing
-testing with readme
-
-this is the readmefile i want to update
+ich fahre gleich nach hause
